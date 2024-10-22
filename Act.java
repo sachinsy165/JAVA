@@ -19,5 +19,6 @@ public class Act
 	public static void main(String[] args) 
 	{
 		name();
+		System.out.println("hey sachin");
 	}
 }
